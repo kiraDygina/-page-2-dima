@@ -1,0 +1,39 @@
+
+body {
+    background-color:purple;
+    font-family:monospace;
+    color:gold;
+    text-align:center;
+}
+li {gap:30px;
+margin-top:20px;
+color:#333333;
+}
+h1 {color:#0073e6;
+    transition: 1s;}
+a {text-decoration:none;
+margin:560px;
+font-size:19px;
+color:#28a745;
+transition: 1s;}
+ul {background-color:#e7f4ff;
+    transition:  1s;}
+ul:hover {background-color:#c7e0f8;
+transition:  1s;
+padding:5%;
+font-size:20px;}
+.bg {padding:20px;}
+p:hover {    color: lightyellow;
+    transition: 1s;}
+  
+  h1:hover {
+    color: lightyellow;
+    transition: 1s;
+  }
+  
+  a:hover {
+    color: lightyellow;
+    transition: 1s;
+  }
+  p {transition:1s;}
+  
